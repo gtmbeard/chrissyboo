@@ -8,7 +8,7 @@ export default function NotFound() {
       <HttpStatusCode code={404} />
       <h1>Page Not Found</h1>
       <p>
-        Visit{" "}
+        Click here ---> {" "}
         <a href="https://fnaf1.netlify.app" target="_blank">
           fnaf1.netlify.app
         </a>{" "}
