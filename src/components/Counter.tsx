@@ -4,7 +4,7 @@ import "./Counter.css";
 export default function Counter() {
   const [count, setCount] = createSignal(0);
   return (
-    <button class="increment" onClick={() => setCount(count() + 100)}>
+    <button class="increment" onClick={() => setCount(count() + 7)}>
       Clicks: {count()}
     </button>
   );
