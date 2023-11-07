@@ -9,10 +9,10 @@ export default function Home() {
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        <a href="https://fnaf1.netlify.app" target="_blank">
+          fnaf1.netlify.app
         </a>{" "}
-        to learn how to build SolidStart apps.
+        for fully unblocked fnaf 1.
       </p>
     </main>
   );
