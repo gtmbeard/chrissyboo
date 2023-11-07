@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Clicker by Christian</h1>
       <Counter />
       <p>
-        Visit{" "}
+        Click here ---> {" "}
         <a href="https://fnaf1.netlify.app" target="_blank">
           fnaf1.netlify.app
         </a>{" "}
