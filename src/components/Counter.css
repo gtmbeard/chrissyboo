@@ -3,7 +3,7 @@
   font-size: inherit;
   padding: 1em 2em;
   color: #c573ff;
-  background-color: rgba(68, 107, 158, 0.1);
+  background-color: rgba(87, 101, 255, 0.1);
   border-radius: 2em;
   border: 2px solid rgba(0, 0, 0, 0);
   outline: none;
@@ -16,5 +16,5 @@
 }
 
 .increment:active {
-  background-color: rgba(68, 107, 158, 0.2);
+  background-color: rgba(87, 101, 255, 0.2);
 }
